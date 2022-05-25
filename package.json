@@ -1,0 +1,23 @@
+{
+  "name": "backend_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server_express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelmartinzarate/backend_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emanuelmartinzarate/backend_express/issues"
+  },
+  "homepage": "https://github.com/emanuelmartinzarate/backend_express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
